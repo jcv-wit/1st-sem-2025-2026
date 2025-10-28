@@ -53,7 +53,7 @@ document.getElementById("gradeForm").addEventListener("submit", function (e) {
         // Show all grade fields dynamically
         const fieldsToShow = [
           "Q1", "Q2", "Q3", "Midterm",
-          "Q4", "Q5", "Q6", "Prefinals",
+          "Q4", "Q5", "Q6", "PreFinals",
           "Tentative Grade", "Exempted", "TargetFinal"
         ];
 
@@ -76,3 +76,4 @@ document.getElementById("gradeForm").addEventListener("submit", function (e) {
       resultDiv.innerHTML = `<p style="color:red;">Error loading grade data.</p>`;
     });
 });
+
