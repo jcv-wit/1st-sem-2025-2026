@@ -57,8 +57,8 @@
 34781,Castulo,Jaymark,R,9,32,30,63,10,8,34,26,53,Yes,
 55439,Cuarte,Maxxine,N,3,8,32,38,13,8,34,24,40,No,55
 56363,Derla,John Gregor,G,7,23,34,62,17,28,34,34,59.75,Yes,
-52538,Equinan,Rhona May,S,2,5,22,28,17,10,,20,26,No,83
-56812,Ezpeleta,Jerelyn,E,8,,34,55,19,16,34,32,49.5,No,36
+52538,Equinan,Rhona May,S,2,,22,28,17,10,,20,26,No,83
+56812,Ezpeleta,Jerelyn,E,8,5,34,55,19,16,34,32,49.5,No,36
 54400,Fuene,Anthony,G,10,27,32,67,28,23,34,30,62.75,Yes,
 57244,Galvan ,Kyrah Riz ,M,6,3,32,33,17,8,34,22,38.75,No,57.5
 46454,Golviogo,Julliene Marie,B,2,23,34,41,10,23,34,35,50.5,Yes,
@@ -160,3 +160,4 @@
 55173,VILLAR,CRYSTHAL JOY,D,7,19,34,36,23,29,34,18,50,Yes,
 50991,Villote ,Julynio ,S,0,14,31,34,3,4,34,25,36.25,No,62.5
 56800,YMALAY,JAMESON,C,16,19,26,45,25,23,34,14,50.5,Yes,
+
