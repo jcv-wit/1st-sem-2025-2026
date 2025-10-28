@@ -1,40 +1,51 @@
-// grade_1st_25-26.js
-document.getElementById("gradeForm").addEventListener("submit", function (event) {
-  event.preventDefault();
+document.getElementById("gradeForm").addEventListener("submit", function (e) {
+  e.preventDefault();
 
-  const studentID = document.getElementById("studentID").value.trim();
+  const id = document.getElementById("studentID").value.trim();
   const surname = document.getElementById("surname").value.trim().toLowerCase();
   const resultDiv = document.getElementById("result");
-  resultDiv.innerHTML = "Searching...";
+
+  // Clear previous result
+  resultDiv.innerHTML = "Loading...";
 
   fetch("grades_1st_25-26.csv")
-    .then((response) => response.text())
-    .then((data) => {
-      const rows = data.split("\n").map((row) => row.split(","));
-      const headers = rows[0];
-      const results = rows.slice(1);
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("CSV file not found");
+      }
+      return response.text();
+    })
+    .then((csvText) => {
+      const rows = csvText.split("\n").map((r) => r.split(","));
+      const headers = rows[0].map((h) => h.trim());
+      const data = rows.slice(1);
 
-      const student = results.find((r) => {
+      // Find matching row
+      const match = data.find((row) => {
+        const record = {};
+        headers.forEach((h, i) => (record[h] = row[i] ? row[i].trim() : ""));
         return (
-          r[0].trim() === studentID &&
-          r[1].trim().toLowerCase() === surname
+          record["StudentID"] === id &&
+          record["Surname"].toLowerCase() === surname
         );
       });
 
-      if (student) {
-        let output = `<h3>Result for ${student[1]}, ${student[2]}</h3>`;
-        output += `<table border="1" cellpadding="6" style="border-collapse:collapse;">`;
-        headers.forEach((h, i) => {
-          output += `<tr><td><strong>${h}</strong></td><td>${student[i] || ""}</td></tr>`;
-        });
-        output += "</table>";
-        resultDiv.innerHTML = output;
+      if (match) {
+        const record = {};
+        headers.forEach((h, i) => (record[h] = match[i] ? match[i].trim() : ""));
+
+        resultDiv.innerHTML = `
+          <h3>${record["GivenName"]} ${record["MiddleInitial"]}. ${record["Surname"]}</h3>
+          <div class="grade-item"><span>Tentative Grade:</span> <span>${record["Tentative Grade"]}</span></div>
+          <div class="grade-item"><span>Exempted:</span> <span>${record["Exempted"]}</span></div>
+          <div class="grade-item"><span>Target Final:</span> <span>${record["TargetFinal"]}</span></div>
+        `;
       } else {
-        resultDiv.innerHTML = "❌ Student not found. Please check your inputs.";
+        resultDiv.innerHTML = `<p style="color:red;">❌ Student not found. Please check your inputs.</p>`;
       }
     })
-    .catch((error) => {
-      resultDiv.innerHTML = "Error loading grade data.";
-      console.error(error);
+    .catch((err) => {
+      console.error(err);
+      resultDiv.innerHTML = `<p style="color:red;">Error loading grade data.</p>`;
     });
 });
