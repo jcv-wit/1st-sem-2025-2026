@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>1st Semester 2025–2026 Grades</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 500px;
+      margin: auto;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 1.5em;
+    }
+
+    label {
+      display: block;
+      margin-top: 15px;
+      font-weight: bold;
+    }
+
+    input[type="text"] {
+      width: 100%;
+      padding: 8px;
+      font-size: 1em;
+      margin-top: 5px;
+      box-sizing: border-box;
+    }
+
+    button {
+      margin-top: 20px;
+      padding: 10px;
+      width: 100%;
+      font-size: 1em;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #45a049;
+    }
+
+    #result {
+      margin-top: 25px;
+      border-top: 1px solid #ccc;
+      padding-top: 15px;
+    }
+
+    .grade-item {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 5px;
+    }
+
+    .grade-item span:first-child {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>1st Semester 2025–2026 Grades</h1>
+
+  <form id="gradeForm">
+    <label for="surname">Surname</label>
+    <input type="text" id="surname" placeholder="Enter Surname" required />
+
+    <label for="studentID">Student Number</label>
+    <input type="text" id="studentID" placeholder="Enter Student Number" required />
+
+    <button type="submit">Check Grade</button>
+  </form>
+
+  <div id="result"></div>
+
+  <!-- Connect to your JavaScript -->
+  <script src="grade_1st_25-26.js"></script>
+</body>
+</html>
