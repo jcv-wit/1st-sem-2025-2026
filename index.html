@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>1st Semester 2025-2026 Grades</title>
+  <title>1st Semester 2025–2026 Grades</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -46,45 +46,39 @@
       background-color: #45a049;
     }
 
-    #output {
-      margin-top: 20px;
+    #result {
+      margin-top: 25px;
       border-top: 1px solid #ccc;
       padding-top: 15px;
     }
 
-    .grade-row {
+    .grade-item {
       display: flex;
       justify-content: space-between;
-      padding: 3px 0;
+      margin-bottom: 5px;
     }
 
-    .grade-label {
+    .grade-item span:first-child {
       font-weight: bold;
-    }
-
-    @media (max-width: 600px) {
-      body {
-        padding: 10px;
-      }
     }
   </style>
 </head>
 <body>
-  <h1>1st Semester 2025-2026 Grades</h1>
+  <h1>1st Semester 2025–2026 Grades</h1>
 
-  <label for="surname">Surname</label>
-  <input type="text" id="surname" placeholder="Valencia">
+  <form id="gradeForm">
+    <label for="surname">Surname</label>
+    <input type="text" id="surname" placeholder="Enter Surname" required />
 
-  <label for="studentID">Student ID (5 digits)</label>
-  <input type="text" id="studentID" placeholder="12345" maxlength="5">
+    <label for="studentID">Student Number</label>
+    <input type="text" id="studentID" placeholder="Enter Student Number" required />
 
-  <button onclick="showGrade()">View Grade</button>
+    <button type="submit">Check Grade</button>
+  </form>
 
-  <div id="output"></div>
+  <div id="result"></div>
 
-  <!-- Add PapaParse for CSV reading -->
-  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <!-- Connect to your JavaScript -->
   <script src="grade_1st_25-26.js"></script>
 </body>
 </html>
-
