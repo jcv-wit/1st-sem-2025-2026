@@ -3,121 +3,86 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Grade Lookup</title>
+  <title>1st Semester 2025-2026 Grades</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      margin: 10px;
-      padding: 0;
-      background-color: #f7f7f7;
-      color: #333;
+      padding: 20px;
+      max-width: 500px;
+      margin: auto;
     }
 
     h1 {
       text-align: center;
       font-size: 1.5em;
-      margin-bottom: 20px;
-    }
-
-    .input-group {
-      display: flex;
-      flex-direction: column;
-      margin-bottom: 15px;
-      max-width: 300px;
-      margin-left: auto;
-      margin-right: auto;
     }
 
     label {
-      margin-bottom: 5px;
+      display: block;
+      margin-top: 15px;
       font-weight: bold;
     }
 
-    input {
-      padding: 8px 10px;
-      font-size: 1em;
-      border-radius: 5px;
-      border: 1px solid #ccc;
+    input[type="text"] {
       width: 100%;
+      padding: 8px;
+      font-size: 1em;
+      margin-top: 5px;
       box-sizing: border-box;
     }
 
     button {
-      padding: 12px;
+      margin-top: 20px;
+      padding: 10px;
+      width: 100%;
       font-size: 1em;
-      border: none;
-      border-radius: 5px;
-      background-color: #007BFF;
+      background-color: #4CAF50;
       color: white;
+      border: none;
       cursor: pointer;
-      display: block;
-      margin: 10px auto;
-      max-width: 300px;
     }
 
     button:hover {
-      background-color: #0056b3;
+      background-color: #45a049;
     }
 
     #output {
       margin-top: 20px;
-      background: white;
-      padding: 15px;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      max-width: 350px;
-      margin-left: auto;
-      margin-right: auto;
-      word-wrap: break-word;
+      border-top: 1px solid #ccc;
+      padding-top: 15px;
     }
 
     .grade-row {
       display: flex;
       justify-content: space-between;
-      padding: 5px 0;
+      padding: 3px 0;
     }
 
     .grade-label {
       font-weight: bold;
     }
 
-    @media (max-width: 400px) {
-      #output, .input-group, button {
-        max-width: 90%;
-      }
-      .grade-row {
-        flex-direction: column;
-        align-items: flex-start;
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
       }
     }
   </style>
 </head>
 <body>
-  <h1>Grade Lookup</h1>
+  <h1>1st Semester 2025-2026 Grades</h1>
 
-  <div class="input-group">
-    <label for="surname">Surname (e.g., Valencia)</label>
-    <input type="text" id="surname" placeholder="Surname">
-  </div>
+  <label for="surname">Surname</label>
+  <input type="text" id="surname" placeholder="Valencia">
 
-  <div class="input-group">
-    <label for="studentID">Student Number (5 digits, e.g., 12345)</label>
-    <input 
-      type="text" 
-      id="studentID" 
-      placeholder="12345" 
-      maxlength="5" 
-      pattern="\d{5}" 
-      title="Enter a 5-digit Student ID"
-    >
-  </div>
+  <label for="studentID">Student ID (5 digits)</label>
+  <input type="text" id="studentID" placeholder="12345" maxlength="5">
 
   <button onclick="showGrade()">View Grade</button>
 
-  <div id="output">
-    <!-- Grades will appear here -->
-  </div>
+  <div id="output"></div>
 
-  <script src="grades.js"></script>
+  <!-- Link your JS file here -->
+  <script src="grade_1st_25-26.js"></script>
 </body>
 </html>
