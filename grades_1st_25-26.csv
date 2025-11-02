@@ -1,209 +1,162 @@
-﻿StudentID,Surname,GivenName,MiddleInitial,Section,Q1,Q2,Q3,Midterm,Q4,Q5,Q6,PreFinals,Co-Curricular,,Tentative Grade,Exempted,Target Score,Finals,Remarks
-56063,Alvarez,Kristian Josef,M,EC1,0,0,30,22,13,16,34,16,,,32.75,No,69.5,,Dropped
-56524,Azucena,Rhena Joyce,F,EC1,5,24,34,41,29,22,34,13,10,,53,Yes,,,Pass! Permit Recorded
-54509,Bacalangco ,Jewel Marie ,Y,EC1,0,17,34,61,12,10,34,18,10,,49,No,42,25,Fail
-54816,Belgira,Mars Janel Angelo,C,EC1,11,23,34,42,12,22,34,25,10,,53.25,Yes,,,Pass! Permit Recorded
-55025,Bersamera,Jeanefer,P,EC1,6,6,32,42,21,10,34,28,,,44.75,No,45.5,30,Fail
-54752,Cabilogan,Keyla Mae,P,EC1,2,28,34,45,19,28,34,32,10,,58,Yes,,,Pass! Permit Recorded
-56425,Cañonaso,Elah,A,EC1,3,11,30,42,0,8,34,10,,,34.5,No,66,,Dropped
-54550,CARTOJANO ,SALVE,A,EC1,5,29,34,62,5,15,34,19,10,,53.25,Yes,,,Pass! Permit Recorded
-54384,Castaño ,John Carlo ,C,EC1,3,0,27,33,21,10,34,14,,,35.5,No,64,,Dropped
-55626,Clavines,Rochelle,G,EC1,11,24,34,56,23,33,34,17,10,,60.5,Yes,,,Pass! Permit Recorded
-47189,Dauz III,Antonio,B,EC1,3,18,25,30,27,22,34,20,,,44.75,No,45.5,30,Fail
-55994,Gabe,Chyzelle Jehn ,A,EC1,0,7,27,54,25,27,34,22,,,49,No,37,38,Pass!
-56786,Galido Jr.,Rafael,S,EC1,0,9,34,28,13,23,34,16,10,,41.75,No,56.5,20,Fail
-46386,Gloria,June Mark Anthony ,G,EC1,5,13,25,33,13,16,34,13,,,38,No,59,15,Fail
-46456,Hablero,Yancy,A,EC1,5,33,34,63,29,22,34,41,10,,67.75,Yes,,,Pass! Permit Recorded
-54314,Hallegado,Jane Mariel,P,EC1,12,33,26,48,25,27,34,,10,,53.75,Yes,,,Pass! Permit Recorded
-54625,Herva,Stephanie Claire ,C,EC1,6,21,34,44,27,22,34,38,10,,59,Yes,,,Pass! Permit Recorded
-56484,Jordan,Francine Denise,C,EC1,9,20,32,59,0,8,34,38,,,50,Yes,,,Pass! Permit Recorded
-54354,Legaspi,Kristine Joyce,C,EC1,3,16,30,38,19,28,34,29,,,49.25,No,36.5,38,Pass!
-55437,Marterio,Ronalyn,S,EC1,2,7,32,43,21,10,34,15,,,41,No,53,35,Fail
-54660,Monton,Jashiel,C,EC1,3,22,32,40,5,15,34,17,,,42,No,51,35,Fail
-56791,Octavio,Christian Lee,M,EC1,2,9,34,33,23,33,34,14,,,45.5,No,44,23,Fail
-47758,Olaira,Romualdo II,O,EC1,0,13,29,31,12,10,34,18,10,,39.25,No,61.5,35,Fail
-50086,Ortiz,John Alphe,D,EC1,6,9,22,28,12,22,34,18,,,37.75,No,59.5,30,Fail
-56746,Pacli-an,Pink Ployd,P,EC1,8,25,32,56,13,23,34,18,,,52.25,Yes,,,Pass! Permit Recorded
-52581,Paclibar,Jerald Paul,P,EC1,10,20,31,65,21,10,34,18,10,,54.75,Yes,,,Pass! Permit Recorded
-55766,Panes,Renet Jane ,M,EC1,5,6,34,51,13,16,34,34,10,,50.75,Yes,,20,Pass! Permit Recorded
-55379,Panganiban ,Light Markuz,T,EC1,9,15,30,34,29,22,34,21,,,48.5,No,38,47,Pass!
-52863,Sabedra,Pamela Faith,M,EC1,7,12,25,27,12,10,34,21,,,37,No,61,63,Pass!
-56457,San Jose ,John Edren ,N,EC1,6,10,32,44,0,8,34,21,,,38.75,No,57.5,,Dropped
-54196,Selarde,Kristine Joy,M,EC1,5,21,32,56,23,33,34,39,,,60.75,Yes,,,Pass! Permit Recorded
-55902,Sumagaysay,Marian,M,EC1,6,14,32,27,5,15,34,16,,,37.25,No,60.5,20,Fail
-54677,TA-ALA,ED MITCHEL,T,EC1,8,3,30,46,27,22,34,22,,,48,No,39,50,Pass!
-54837,Tante,Jan Vincent ,N,EC1,9,25,31,50,25,27,34,20,10,,57.75,Yes,,,Pass! Permit Recorded
-55324,Tuante,Rose Mar,T,EC1,7,29,32,47,13,23,34,24,,,52.25,Yes,,,Pass! Permit Recorded
-55106,Tuayang ,Adrianne Kyle ,S,EC1,6,16,30,38,21,10,34,18,,,43.25,No,48.5,35,Fail
-49886,Villareal,Ella Mae,D,EC1,5,25,32,43,21,10,34,21,,,47.75,No,39.5,55,Pass!
-56715,Wong,Mar Angelo,E,EC1,8,31,27,42,19,28,34,20,,,52.25,Yes,,,Pass! Permit Recorded
-54712,ACOLENTAVA ,LEOMIL,M,EC2,2,15,25,37,17,18,34,19,10,,44.25,No,51.5,20,Fail
-47816,Agno,Rafaela May,C,EC2,2,8,32,50,10,23,34,36,,,48.75,No,37.5,43,Pass!
-54388,Agtas,Danz Lander,I,EC2,5,19,34,44,11,12,34,14,10,,45.75,No,48.5,25,Fail
-54490,Alfaro,Carl Joseph,A,EC2,9,24,32,71,16,12,34,33,,,57.75,Yes,,,Pass! Permit Recorded
-54648,Aliperio,Carl Louis,B,EC2,7,30,34,46,17,8,34,33,10,,54.75,Yes,,,Pass! Permit Recorded
-54403,AMONTANO ,SELWYN ADRIAN , ,EC2,8,23,34,67,17,10,34,30,10,,58.25,Yes,,,Pass! Permit Recorded
-56755,Andion ,Wilson John ,C,EC2,8,24,32,54,16,14,34,20,,,50.5,Yes,,,Pass! Permit Recorded
-54460,Bernaldez,John Anthony,L,EC2,13,21,32,46,28,23,34,25,10,,58,Yes,,,Pass! Permit Recorded
-55952,Bernales,Gino,E,EC2,5,16,25,44,17,28,34,14,,,45.75,No,43.5,30,Fail
-56512,Bidaure ,Keyla Jean,I,EC2,4,33,32,46,13,8,34,21,,,47.75,No,39.5,43,Pass!
-54431,Bigcas,Kent Ricard,G,EC2,5,29,32,65,10,8,34,20,,,50.75,Yes,,,Pass! Permit Recorded
-54469,Blegario ,Shara Marie ,L,EC2,5,22,30,54,28,20,34,26,,,54.75,Yes,,,Pass! Permit Recorded
-54766,Caballero,Kenny ,C,EC2,7,25,27,48,19,16,34,16,10,,50.5,Yes,,60,Submit Permit
-57083,Calzado ,Charles Mark ,C,EC2,3,25,34,60,17,18,34,37,10,,59.5,Yes,,,Pass! Permit Recorded
-51114,Candelario,Miles,A,EC2,2,,25,32,16,28,,16,,,29.75,No,75.5,10,Fail
-54607,Capito,Divine Mae,A,EC2,8,27,30,54,28,20,34,25,,,56.5,Yes,,,Pass! Permit Recorded
-55510,Caspillo,Xyrene Frenz,J,EC2,2,27,34,37,16,12,34,29,10,,50.25,Yes,,25,Submit Permit
-34781,Castulo,Jaymark,R,EC2,9,32,30,63,10,8,34,26,,,53,Yes,,,Pass! Permit Recorded
-55439,Cuarte,Maxxine,N,EC2,3,8,32,38,13,8,34,24,,,40,No,55,30,Fail
-56363,Derla,John Gregor,G,EC2,7,23,34,62,17,28,34,34,10,,62.25,Yes,,,Pass! Permit Recorded
-52538,Equinan,Rhona May,S,EC2,2,,22,28,17,10,34,20,10,,35.75,No,68.5,10,Fail
-56812,Ezpeleta,Jerelyn,E,EC2,8,5,34,55,19,16,34,32,10,,53.25,Yes,,,Pass! Permit Recorded
-54400,Fuene,Anthony,G,EC2,10,27,32,67,28,23,34,30,,,62.75,Yes,,,Pass! Permit Recorded
-57244,Galvan ,Kyrah Riz ,M,EC2,6,3,32,33,17,8,34,22,,,38.75,No,57.5,20,Fail
-46454,Golviogo,Julliene Marie,B,EC2,2,23,34,41,10,23,34,35,10,,53,Yes,,,Pass! Permit Recorded
-55751,LABRADOR,MITZI,P,EC2,2,7,34,46,16,14,34,16,10,,44.75,No,50.5,35,Fail
-55454,Lacuesta,Kholenne,D,EC2,5,20,34,50,11,12,34,34,10,,52.5,Yes,,,Pass! Permit Recorded
-46317,Lo,Elisha Glaze,S,EC2,11,7,32,65,17,18,34,35,10,,57.25,Yes,,,Pass! Permit Recorded
-52293,Lozada,Miamie,C,EC2,8,17,32,44,16,28,34,12,10,,50.25,Yes,,20,Submit Permit
-55383,Macahilig ,Joshua,P,EC2,9,16,34,39,17,28,34,26,10,,53.25,Yes,,,Pass! Permit Recorded
-54548,Marquez,MZ Joy,A,EC2,9,6,32,46,12,22,34,12,,,43.25,No,48.5,40,Fail
-47402,Mendiola,Ken David,H,EC2,7,17,34,66,19,16,34,24,10,,56.75,Yes,,,Pass! Permit Recorded
-54653,Miranda,Mark John,C,EC2,,13,32,52,28,23,34,29,10,,55.25,Yes,,,Pass! Permit Recorded
-55273,Navarro ,Joshua,B,EC2,4,5,32,52,11,12,34,22,,,43,No,49,20,Fail
-42138,Patano,Lady Marie,C,EC2,,,,,0,0,34,8,,,10.5,No,114,10,Fail
-55411,Quijano,Alexander,T,EC2,4,11,32,47,10,23,34,27,,,47,No,41,30,Fail
-54337,Solvero,Starlyn,A,EC2,9,20,34,72,17,8,34,30,10,,58.5,Yes,,,Pass! Permit Recorded
-55408,Soroño,Carmelyn,B,EC2,3,5,34,43,10,8,34,26,10,,43.25,No,53.5,25,Fail
-54422,Suyat,Loise Antonitte ,D,EC2,5,16,28,41,16,14,34,26,,,45,No,45,15,Fail
-54680,Tabujara ,Daisyrick Novem ,V,EC2,5,10,34,38,13,8,34,31,10,,45.75,No,48.5,33,Fail
-55276,Traigo,Johanna Trixia,G,EC2,2,3,34,44,16,28,34,16,10,,46.75,No,46.5,20,Fail
-56444,Valencia ,Francine Ross ,B,EC2,3,18,34,69,17,10,34,30,10,,56.25,Yes,,,Pass! Permit Recorded
-54566,Villanueva,Narzvil,G,EC2,8,18,30,58,28,20,34,41,,,59.25,Yes,,,Submit Permit
-52978,Villaruel,Benjie,B,EC2,9,13,32,67,16,12,34,29,,,53,Yes,,,Pass! Permit Recorded
-57153,Abordo ,Lonnie ,M,EC3,21,22,32,63,25,31,34,46,,,68.5,Yes,,,Pass! Permit Recorded
-54596,Agustin,Wilriche Daisy,D,EC3,11,25,30,58,33,31,34,43,,,66.25,Yes,,,Pass! Permit Recorded
-54644,Almoceda,Darryl,M,EC3,17,18,30,69,31,2,34,38,,,59.75,Yes,,,Pass! Permit Recorded
-55305,Amante,Mc Jiezel,L,EC3,22,33,28,68,29,31,34,23,,,67,Yes,,,Pass! Permit Recorded
-53883,Anativo,Claudine,L,EC3,18,16,28,80,9,11,34,31,,,56.75,Yes,,,Pass! Permit Recorded
-54637,Apitong,Rhea,E,EC3,26,20,30,39,29,20,34,33,,,57.75,Yes,,,Pass! Permit Recorded
-49873,Arante,Tania Cate,P,EC3,10,5,21,52,31,21,34,26,,,50,Yes,,,Pass! Permit Recorded
-56039,Ariaden,Zaira Marie,L,EC3,15,24,29,58,26,18,34,25,10,,59.75,Yes,,,Pass! Permit Recorded
-56031,Bajade,Florenio,P,EC3,19,28,30,67,29,23,34,36,,,66.5,Yes,,,Pass! Permit Recorded
-46549,Barretto,Mary Rose,D,EC3,9,28,29,46,21,10,34,19,10,,51.5,Yes,,30,Pass! Permit Recorded
-54697,Bolivar,Cyrene June,B,EC3,26,29,32,72,33,31,34,48,,,76.25,Yes,,,Pass! Permit Recorded
-56172,Cantollino,Kyla,C,EC3,12,25,27,86,29,31,34,38,10,,73,Yes,,,Pass! Permit Recorded
-54421,Caro,Renz,E,EC3,18,33,28,63,33,31,34,38,,,69.5,Yes,,,Pass! Permit Recorded
-46120,Casio,Jules,R,EC3,14,20,22,52,25,31,34,40,10,,62,Yes,,,Pass! Permit Recorded
-50250,Ceralvo,Joshua ,A,EC3,6,4,27,15,26,18,34,12,10,,38,No,64,20,Fail
-42891,Depaor,Jade,C,EC3,3,9,28,33,24,23,34,19,,,43.25,No,48.5,10,Fail
-51513,EBRON,AICYLL MAE,R,EC3,17,18,27,59,21,10,34,10,10,,51.5,Yes,,,Pass! Permit Recorded
-55928,Espino,Christine,S,EC3,24,20,30,60,31,21,34,27,,,61.75,Yes,,,Pass! Permit Recorded
-56477,Fortaleza ,Marco Chester ,G,EC3,13,6,29,64,29,20,34,32,10,,59.25,Yes,,,Pass! Permit Recorded
-41699,Gatuteo,Mark Angelo,O,EC3,8,0,21,34,31,2,34,12,,,35.5,No,64,20,Fail
-56491,GAYAS,CRYSTAL MARRIE,S,EC3,8,19,27,28,33,31,34,16,10,,51.5,Yes,,20,Pass! Permit Recorded
-41706,Gedalanga,Riz Alfred,B,EC3,6,0,21,21,9,11,34,10,,,28,No,79,,Dropped
-54881,Goleña,Theo Joshua,N,EC3,28,27,32,64,31,21,34,48,10,,73.75,Yes,,,Pass! Permit Recorded
-41695,Guevara,Blez,M,EC3,8,3,21,35,21,10,34,14,,,36.5,No,62,30,Fail
-56166,Jaleco,Warren,,EC3,17,19,30,75,26,18,34,41,,,65,Yes,,,Submit Permit
-54576,Libuna,Sarah,B,EC3,19,25,29,59,33,31,34,16,10,,64,Yes,,,Pass! Permit Recorded
-56564,Maghari,Cristelear Rose Carl,L,EC3,4,14,27,32,33,31,34,14,10,,49.75,No,40.5,35,Fail
-54459,Menil,Angelbert Ian,F,EC3,12,16,28,57,9,11,34,26,,,48.25,No,38.5,15,Fail
-55297,Mirasol,Jasper Bryan,P,EC3,23,33,30,81,29,23,34,37,,,72.5,Yes,,,Pass! Permit Recorded
-46320,Panaguiton,Joan Marie,T,EC3,6,16,28,54,25,31,34,16,,,52.5,Yes,,,Pass! Permit Recorded
-46131,Pastolero,Clea Frence,P,EC3,23,33,32,66,29,20,34,38,10,,71.25,Yes,,,Pass! Permit Recorded
-54863,Patriarca,Van Deomar,P,EC3,21,27,25,75,31,2,34,44,10,,67.25,Yes,,,Pass! Permit Recorded
-55235,PEREZ,CLARISSA,P,EC3,6,15,21,42,23,29,34,21,,,47.75,No,39.5,30,Fail
-56016,PORRAS,ALEXIA PEARL,A,EC3,11,10,28,63,21,10,34,32,,,52.25,Yes,,,Pass! Permit Recorded
-52383,Porras,Paul Vincent,E,EC3,21,26,21,40,25,27,34,35,,,57.25,Yes,,,Pass! Permit Recorded
-55922,Sarabia,Antonette,D,EC3,17,17,29,59,29,23,34,19,10,,59.25,Yes,,,Pass! Permit Recorded
-46830,Sayo,Robert Eduard,B,EC3,14,21,32,60,29,31,34,41,10,,68,Yes,,,Pass! Permit Recorded
-56771,Suelo,Alfred,L,EC3,23,33,29,77,33,31,34,34,10,,76,Yes,,,Pass! Permit Recorded
-55356,Vidal,John Michael,O,EC3,15,23,29,76,29,20,34,32,10,,67,Yes,,,Pass! Permit Recorded
-54857,Babayen-on,Noven,C,EC4,13,23,34,44,21,14,34,10,10,,50.75,Yes,,30,Pass! Permit Recorded
-45669,Babunas,Siobee,B,EC4,10,7,31,50,21,27,34,25,10,,53.75,Yes,,,Pass! Permit Recorded
-56346,Bachoco ,Lyn Iris ,B,EC4,10,18,31,45,25,23,34,31,10,,56.75,Yes,,,Pass! Permit Recorded
-56115,Banate Jr.,Ruben Vincent,G,EC4,1,21,32,46,3,4,34,14,,,38.75,No,57.5,15,Fail
-56210,Biñas,Khen,C,EC4,0,9,28,30,24,23,34,14,10,,43,No,54,35,Fail
-52465,BUGNA,JONNA MAE,S,EC4,6,13,32,52,17,33,34,22,,,52.25,Yes,,,Pass! Permit Recorded
-56337,Calopez,Joenald,G,EC4,8,5,28,38,3,9,34,14,10,,37.25,No,65.5,35,Fail
-50318,COLMO,FRANZ RUIZ,A,EC4,4,,26,37,17,12,34,25,,,38.75,No,57.5,0,Fail
-52804,Dominguez,Lydeth Kaye,C,EC4,6,10,26,32,23,23,34,10,,,41,No,53,0,Fail
-49066,Duro,Judy Jr.,C,EC4,9,22,32,65,25,10,34,21,,,54.5,Yes,,,Pass! Permit Recorded
-55174,Ellado,Ma. Kyla Cassandra ,D,EC4,5,32,31,26,10,2,34,20,10,,42.5,No,55,35,Fail
-55913,Endoma,Tracy Liane,N,EC4,4,20,32,39,17,10,34,22,,,44.5,No,46,40,Fail
-55434,Estañol,Noezel,G,EC4,5,12,26,34,24,23,34,34,,,48,No,39,50,Pass!
-54585,Fullon,Romar John,G,EC4,7,31,31,60,21,14,34,34,10,,60.5,Yes,,,Pass! Permit Recorded
-38429,Gagula,Emmanuel Jay,G,EC4,6,17,32,41,24,23,34,25,,,50.5,Yes,,,Pass! Permit Recorded
-56606,Genit,Algene June ,M,EC4,1,23,32,38,25,23,34,28,,,51,Yes,,,Pass! Permit Recorded
-54733,Genizera,John Lester,C,EC4,,31,32,69,23,23,34,48,,,65,Yes,,,Pass! Permit Recorded
-46205,Gilo,Jan Armen,A,EC4,0,14,34,34,3,4,34,18,10,,37.75,No,64.5,30,Fail
-56506,Granito,Hen Ellysa,T,EC4,2,20,32,33,3,9,34,21,10,,41,No,58,25,Fail
-54520,Leones,Germaine Mae,C,EC4,11,24,26,56,17,33,34,26,,,56.75,Yes,,,Pass! Permit Recorded
-56091,Llave,John paul,D,EC4,5,5,32,33,24,23,34,22,,,44.5,No,46,35,Fail
-50292,Matalubos,Tommy,M,EC4,6,8,29,28,17,12,34,16,,,37.5,No,60,13,Fail
-54630,Mendoza,Arabella ,A,EC4,2,27,26,32,25,10,34,17,,,43.25,No,48.5,50,Pass!
-51534,Nitro,Philip John,S,EC4,3,10,26,29,10,2,34,10,,,31,No,73,10,Fail
-55594,Pagmanua,Kerbie Kent,B,EC4,9,27,32,46,21,27,34,28,,,56,Yes,,,Pass! Permit Recorded
-55895,Pangilinan,Fiona Ashley,L,EC4,6,29,31,47,23,29,34,25,10,,58.5,Yes,,,Pass! Permit Recorded
-54398,Parcon,Thed Joshua,T,EC4,5,8,32,42,23,23,34,24,,,47.75,No,39.5,25,Fail
-48158,Patrona,Charles Adrian,C,EC4,3,9,29,28,17,12,34,13,,,36.25,No,62.5,10,Fail
-56584,Perez,Leonardo,C,EC4,29,23,31,59,24,23,34,38,10,,67.75,Yes,,,Pass! Permit Recorded
-49174,Polido,Rio,P,EC4,5,2,26,24,25,10,34,14,,,35,No,65,15,Fail
-51521,Quasco,Amy Rose,F,EC4,8,8,29,27,13,23,34,8,,,37.5,No,60,28,Fail
-54522,Querubin,Alyzza Faith,A,EC4,8,21,26,72,25,23,34,26,,,58.75,Yes,,,Pass! Permit Recorded
-46601,Solis,Rose Ann,S,EC4,5,11,32,44,10,2,34,20,10,,42,No,56,35,Fail
-46904,Solis,Zybells,L,EC4,7,29,32,41,21,27,34,21,,,53,Yes,,,Pass! Permit Recorded
-52456,Tabifranca ,Tommy Jones,G,EC4,4,4,32,45,3,9,34,14,,,36.25,No,62.5,23,Fail
-51598,Tolentino,Cathlyn Joy ,A,EC4,6,6,29,47,17,33,34,18,,,47.5,No,40,33,Fail
-56422,Torreña,Harold,B,EC4,7,13,32,51,21,14,,15,,,38.25,No,58.5,10,Fail
-55173,VILLAR,CRYSTHAL JOY,D,EC4,7,19,34,36,23,29,34,18,,,50,Yes,,,Pass! Permit Recorded
-50991,Villote ,Julynio ,S,EC4,0,14,31,34,3,4,34,25,10,,38.75,No,62.5,20,Fail
-56800,YMALAY,JAMESON,C,EC4,16,19,26,45,25,23,34,14,,,50.5,Yes,,,Pass! Permit Recorded
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,1220.6,,,
+StudentID,Surname,GivenName,MiddleInitial,Section,Q1,Q2,Q3,Midterm,Q4,Q5,Q6,PreFinals,Co-Curricular,Tentative Grade,Exempted,Target Score,Finals,Remarks
+56063,Alvarez,Kristian Josef,M,EC1,0,0,30,22,13,16,34,16,,32.75,No,69.5,,Dropped
+56524,Azucena,Rhena Joyce,F,EC1,5,24,34,41,29,22,34,13,10,53,Yes,,,Pass! Permit Recorded
+54509,Bacalangco ,Jewel Marie ,Y,EC1,0,17,34,61,12,10,34,18,10,49,No,42,25,Fail
+54816,Belgira,Mars Janel Angelo,C,EC1,11,23,34,42,12,22,34,25,10,53.25,Yes,,,Pass! Permit Recorded
+55025,Bersamera,Jeanefer,P,EC1,6,6,32,42,21,10,34,28,,44.75,No,45.5,30,Fail
+54752,Cabilogan,Keyla Mae,P,EC1,2,28,34,45,19,28,34,32,10,58,Yes,,,Pass! Permit Recorded
+56425,Cañonaso,Elah,A,EC1,3,11,30,42,0,8,34,10,,34.5,No,66,,Dropped
+54550,CARTOJANO ,SALVE,A,EC1,5,29,34,62,5,15,34,19,10,53.25,Yes,,,Pass! Permit Recorded
+54384,Castaño ,John Carlo ,C,EC1,3,0,27,33,21,10,34,14,,35.5,No,64,,Dropped
+55626,Clavines,Rochelle,G,EC1,11,24,34,56,23,33,34,17,10,60.5,Yes,,,Pass! Permit Recorded
+47189,Dauz III,Antonio,B,EC1,3,18,25,30,27,22,34,20,,44.75,No,45.5,30,Fail
+55994,Gabe,Chyzelle Jehn ,A,EC1,0,7,27,54,25,27,34,22,,49,No,37,38,Pass!
+56786,Galido Jr.,Rafael,S,EC1,0,9,34,28,13,23,34,16,10,41.75,No,56.5,20,Fail
+46386,Gloria,June Mark Anthony ,G,EC1,5,13,25,33,13,16,34,13,,38,No,59,15,Fail
+46456,Hablero,Yancy,A,EC1,5,33,34,63,29,22,34,41,10,67.75,Yes,,,Pass! Permit Recorded
+54314,Hallegado,Jane Mariel,P,EC1,12,33,26,48,25,27,34,,10,53.75,Yes,,,Pass! Permit Recorded
+54625,Herva,Stephanie Claire ,C,EC1,6,21,34,44,27,22,34,38,10,59,Yes,,,Pass! Permit Recorded
+56484,Jordan,Francine Denise,C,EC1,9,20,32,59,0,8,34,38,,50,Yes,,,Pass! Permit Recorded
+54354,Legaspi,Kristine Joyce,C,EC1,3,16,30,38,19,28,34,29,,49.25,No,36.5,38,Pass!
+55437,Marterio,Ronalyn,S,EC1,2,7,32,43,21,10,34,15,,41,No,53,35,Fail
+54660,Monton,Jashiel,C,EC1,3,22,32,40,5,15,34,17,,42,No,51,35,Fail
+56791,Octavio,Christian Lee,M,EC1,2,9,34,33,23,33,34,14,,45.5,No,44,23,Fail
+47758,Olaira,Romualdo II,O,EC1,0,13,29,31,12,10,34,18,10,39.25,No,61.5,35,Fail
+50086,Ortiz,John Alphe,D,EC1,6,9,22,28,12,22,34,18,,37.75,No,59.5,30,Fail
+56746,Pacli-an,Pink Ployd,P,EC1,8,25,32,56,13,23,34,18,,52.25,Yes,,,Pass! Permit Recorded
+52581,Paclibar,Jerald Paul,P,EC1,10,20,31,65,21,10,34,18,10,54.75,Yes,,,Pass! Permit Recorded
+55766,Panes,Renet Jane ,M,EC1,5,6,34,51,13,16,34,34,10,50.75,Yes,,20,Pass! Permit Recorded
+55379,Panganiban ,Light Markuz,T,EC1,9,15,30,34,29,22,34,21,,48.5,No,38,47,Pass!
+52863,Sabedra,Pamela Faith,M,EC1,7,12,25,27,12,10,34,21,,37,No,61,63,Pass!
+56457,San Jose ,John Edren ,N,EC1,6,10,32,44,0,8,34,21,,38.75,No,57.5,,Dropped
+54196,Selarde,Kristine Joy,M,EC1,5,21,32,56,23,33,34,39,,60.75,Yes,,,Pass! Permit Recorded
+55902,Sumagaysay,Marian,M,EC1,6,14,32,27,5,15,34,16,,37.25,No,60.5,20,Fail
+54677,TA-ALA,ED MITCHEL,T,EC1,8,3,30,46,27,22,34,22,,48,No,39,50,Pass!
+54837,Tante,Jan Vincent ,N,EC1,9,25,31,50,25,27,34,20,10,57.75,Yes,,,Pass! Permit Recorded
+55324,Tuante,Rose Mar,T,EC1,7,29,32,47,13,23,34,24,,52.25,Yes,,,Pass! Permit Recorded
+55106,Tuayang ,Adrianne Kyle ,S,EC1,6,16,30,38,21,10,34,18,,43.25,No,48.5,35,Fail
+49886,Villareal,Ella Mae,D,EC1,5,25,32,43,21,10,34,21,,47.75,No,39.5,55,Pass!
+56715,Wong,Mar Angelo,E,EC1,8,31,27,42,19,28,34,20,,52.25,Yes,,,Pass! Permit Recorded
+54712,ACOLENTAVA ,LEOMIL,M,EC2,2,15,25,37,17,18,34,19,10,44.25,No,51.5,20,Fail
+47816,Agno,Rafaela May,C,EC2,2,8,32,50,10,23,34,36,,48.75,No,37.5,43,Pass!
+54388,Agtas,Danz Lander,I,EC2,5,19,34,44,11,12,34,14,10,45.75,No,48.5,25,Fail
+54490,Alfaro,Carl Joseph,A,EC2,9,24,32,71,16,12,34,33,,57.75,Yes,,,Pass! Permit Recorded
+54648,Aliperio,Carl Louis,B,EC2,7,30,34,46,17,8,34,33,10,54.75,Yes,,,Pass! Permit Recorded
+54403,AMONTANO ,SELWYN ADRIAN , ,EC2,8,23,34,67,17,10,34,30,10,58.25,Yes,,,Pass! Permit Recorded
+56755,Andion ,Wilson John ,C,EC2,8,24,32,54,16,14,34,20,,50.5,Yes,,,Pass! Permit Recorded
+54460,Bernaldez,John Anthony,L,EC2,13,21,32,46,28,23,34,25,10,58,Yes,,,Pass! Permit Recorded
+55952,Bernales,Gino,E,EC2,5,16,25,44,17,28,34,14,,45.75,No,43.5,30,Fail
+56512,Bidaure ,Keyla Jean,I,EC2,4,33,32,46,13,8,34,21,,47.75,No,39.5,43,Pass!
+54431,Bigcas,Kent Ricard,G,EC2,5,29,32,65,10,8,34,20,,50.75,Yes,,,Pass! Permit Recorded
+54469,Blegario ,Shara Marie ,L,EC2,5,22,30,54,28,20,34,26,,54.75,Yes,,,Pass! Permit Recorded
+54766,Caballero,Kenny ,C,EC2,7,25,27,48,19,16,34,16,10,50.5,Yes,,60,Submit Permit
+57083,Calzado ,Charles Mark ,C,EC2,3,25,34,60,17,18,34,37,10,59.5,Yes,,,Pass! Permit Recorded
+51114,Candelario,Miles,A,EC2,2,,25,32,16,28,,16,,29.75,No,75.5,10,Fail
+54607,Capito,Divine Mae,A,EC2,8,27,30,54,28,20,34,25,,56.5,Yes,,,Pass! Permit Recorded
+55510,Caspillo,Xyrene Frenz,J,EC2,2,27,34,37,16,12,34,29,10,50.25,Yes,,25,Submit Permit
+34781,Castulo,Jaymark,R,EC2,9,32,30,63,10,8,34,26,,53,Yes,,,Pass! Permit Recorded
+55439,Cuarte,Maxxine,N,EC2,3,8,32,38,13,8,34,24,,40,No,55,30,Fail
+56363,Derla,John Gregor,G,EC2,7,23,34,62,17,28,34,34,10,62.25,Yes,,,Pass! Permit Recorded
+52538,Equinan,Rhona May,S,EC2,2,,22,28,17,10,34,20,10,35.75,No,68.5,10,Fail
+56812,Ezpeleta,Jerelyn,E,EC2,8,5,34,55,19,16,34,32,10,53.25,Yes,,,Pass! Permit Recorded
+54400,Fuene,Anthony,G,EC2,10,27,32,67,28,23,34,30,,62.75,Yes,,,Pass! Permit Recorded
+57244,Galvan ,Kyrah Riz ,M,EC2,6,3,32,33,17,8,34,22,,38.75,No,57.5,20,Fail
+46454,Golviogo,Julliene Marie,B,EC2,2,23,34,41,10,23,34,35,10,53,Yes,,,Pass! Permit Recorded
+55751,LABRADOR,MITZI,P,EC2,2,7,34,46,16,14,34,16,10,44.75,No,50.5,35,Fail
+55454,Lacuesta,Kholenne,D,EC2,5,20,34,50,11,12,34,34,10,52.5,Yes,,,Pass! Permit Recorded
+46317,Lo,Elisha Glaze,S,EC2,11,7,32,65,17,18,34,35,10,57.25,Yes,,,Pass! Permit Recorded
+52293,Lozada,Miamie,C,EC2,8,17,32,44,16,28,34,12,10,50.25,Yes,,20,Submit Permit
+55383,Macahilig ,Joshua,P,EC2,9,16,34,39,17,28,34,26,10,53.25,Yes,,,Pass! Permit Recorded
+54548,Marquez,MZ Joy,A,EC2,9,6,32,46,12,22,34,12,,43.25,No,48.5,40,Fail
+47402,Mendiola,Ken David,H,EC2,7,17,34,66,19,16,34,24,10,56.75,Yes,,,Pass! Permit Recorded
+54653,Miranda,Mark John,C,EC2,,13,32,52,28,23,34,29,10,55.25,Yes,,,Pass! Permit Recorded
+55273,Navarro ,Joshua,B,EC2,4,5,32,52,11,12,34,22,,43,No,49,20,Fail
+42138,Patano,Lady Marie,C,EC2,,,,,0,0,34,8,,10.5,No,114,10,Fail
+55411,Quijano,Alexander,T,EC2,4,11,32,47,10,23,34,27,,47,No,41,30,Fail
+54337,Solvero,Starlyn,A,EC2,9,20,34,72,17,8,34,30,10,58.5,Yes,,,Pass! Permit Recorded
+55408,Soroño,Carmelyn,B,EC2,3,5,34,43,10,8,34,26,10,43.25,No,53.5,25,Fail
+54422,Suyat,Loise Antonitte ,D,EC2,5,16,28,41,16,14,34,26,,45,No,45,15,Fail
+54680,Tabujara ,Daisyrick Novem ,V,EC2,5,10,34,38,13,8,34,31,10,45.75,No,48.5,53,Pass!
+55276,Traigo,Johanna Trixia,G,EC2,2,3,34,44,16,28,34,16,10,46.75,No,46.5,20,Fail
+56444,Valencia ,Francine Ross ,B,EC2,3,18,34,69,17,10,34,30,10,56.25,Yes,,,Pass! Permit Recorded
+54566,Villanueva,Narzvil,G,EC2,8,18,30,58,28,20,34,41,,59.25,Yes,,,Submit Permit
+52978,Villaruel,Benjie,B,EC2,9,13,32,67,16,12,34,29,,53,Yes,,,Pass! Permit Recorded
+57153,Abordo ,Lonnie ,M,EC3,21,22,32,63,25,31,34,46,,68.5,Yes,,,Pass! Permit Recorded
+54596,Agustin,Wilriche Daisy,D,EC3,11,25,30,58,33,31,34,43,,66.25,Yes,,,Pass! Permit Recorded
+54644,Almoceda,Darryl,M,EC3,17,18,30,69,31,2,34,38,,59.75,Yes,,,Pass! Permit Recorded
+55305,Amante,Mc Jiezel,L,EC3,22,33,28,68,29,31,34,23,,67,Yes,,,Pass! Permit Recorded
+53883,Anativo,Claudine,L,EC3,18,16,28,80,9,11,34,31,,56.75,Yes,,,Pass! Permit Recorded
+54637,Apitong,Rhea,E,EC3,26,20,30,39,29,20,34,33,,57.75,Yes,,,Pass! Permit Recorded
+49873,Arante,Tania Cate,P,EC3,10,5,21,52,31,21,34,26,,50,Yes,,,Pass! Permit Recorded
+56039,Ariaden,Zaira Marie,L,EC3,15,24,29,58,26,18,34,25,10,59.75,Yes,,,Pass! Permit Recorded
+56031,Bajade,Florenio,P,EC3,19,28,30,67,29,23,34,36,,66.5,Yes,,,Pass! Permit Recorded
+46549,Barretto,Mary Rose,D,EC3,9,28,29,46,21,10,34,19,10,51.5,Yes,,30,Pass! Permit Recorded
+54697,Bolivar,Cyrene June,B,EC3,26,29,32,72,33,31,34,48,,76.25,Yes,,,Pass! Permit Recorded
+56172,Cantollino,Kyla,C,EC3,12,25,27,86,29,31,34,38,10,73,Yes,,,Pass! Permit Recorded
+54421,Caro,Renz,E,EC3,18,33,28,63,33,31,34,38,,69.5,Yes,,,Pass! Permit Recorded
+46120,Casio,Jules,R,EC3,14,20,22,52,25,31,34,40,10,62,Yes,,,Pass! Permit Recorded
+50250,Ceralvo,Joshua ,A,EC3,6,4,27,15,26,18,34,12,10,38,No,64,20,Fail
+42891,Depaor,Jade,C,EC3,3,9,28,33,24,23,34,19,,43.25,No,48.5,10,Fail
+51513,EBRON,AICYLL MAE,R,EC3,17,18,27,59,21,10,34,10,10,51.5,Yes,,,Pass! Permit Recorded
+55928,Espino,Christine,S,EC3,24,20,30,60,31,21,34,27,,61.75,Yes,,,Pass! Permit Recorded
+56477,Fortaleza ,Marco Chester ,G,EC3,13,6,29,64,29,20,34,32,10,59.25,Yes,,,Pass! Permit Recorded
+41699,Gatuteo,Mark Angelo,O,EC3,8,0,21,34,31,2,34,12,,35.5,No,64,20,Fail
+56491,GAYAS,CRYSTAL MARRIE,S,EC3,8,19,27,28,33,31,34,16,10,51.5,Yes,,20,Pass! Permit Recorded
+41706,Gedalanga,Riz Alfred,B,EC3,6,0,21,21,9,11,34,10,,28,No,79,,Dropped
+54881,Goleña,Theo Joshua,N,EC3,28,27,32,64,31,21,34,48,10,73.75,Yes,,,Pass! Permit Recorded
+41695,Guevara,Blez,M,EC3,8,3,21,35,21,10,34,14,,36.5,No,62,30,Fail
+56166,Jaleco,Warren,,EC3,17,19,30,75,26,18,34,41,,65,Yes,,,Submit Permit
+54576,Libuna,Sarah,B,EC3,19,25,29,59,33,31,34,16,10,64,Yes,,,Pass! Permit Recorded
+56564,Maghari,Cristelear Rose Carl,L,EC3,4,14,27,32,33,31,34,14,10,49.75,No,40.5,35,Fail
+54459,Menil,Angelbert Ian,F,EC3,12,16,28,57,9,11,34,26,,48.25,No,38.5,15,Fail
+55297,Mirasol,Jasper Bryan,P,EC3,23,33,30,81,29,23,34,37,,72.5,Yes,,,Pass! Permit Recorded
+46320,Panaguiton,Joan Marie,T,EC3,6,16,28,54,25,31,34,16,,52.5,Yes,,,Pass! Permit Recorded
+46131,Pastolero,Clea Frence,P,EC3,23,33,32,66,29,20,34,38,10,71.25,Yes,,,Pass! Permit Recorded
+54863,Patriarca,Van Deomar,P,EC3,21,27,25,75,31,2,34,44,10,67.25,Yes,,,Pass! Permit Recorded
+55235,PEREZ,CLARISSA,P,EC3,6,15,21,42,23,29,34,21,,47.75,No,39.5,30,Fail
+56016,PORRAS,ALEXIA PEARL,A,EC3,11,10,28,63,21,10,34,32,,52.25,Yes,,,Pass! Permit Recorded
+52383,Porras,Paul Vincent,E,EC3,21,26,21,40,25,27,34,35,,57.25,Yes,,,Pass! Permit Recorded
+55922,Sarabia,Antonette,D,EC3,17,17,29,59,29,23,34,19,10,59.25,Yes,,,Pass! Permit Recorded
+46830,Sayo,Robert Eduard,B,EC3,14,21,32,60,29,31,34,41,10,68,Yes,,,Pass! Permit Recorded
+56771,Suelo,Alfred,L,EC3,23,33,29,77,33,31,34,34,10,76,Yes,,,Pass! Permit Recorded
+55356,Vidal,John Michael,O,EC3,15,23,29,76,29,20,34,32,10,67,Yes,,,Pass! Permit Recorded
+54857,Babayen-on,Noven,C,EC4,13,23,34,44,21,14,34,10,10,50.75,Yes,,30,Pass! Permit Recorded
+45669,Babunas,Siobee,B,EC4,10,7,31,50,21,27,34,25,10,53.75,Yes,,,Pass! Permit Recorded
+56346,Bachoco ,Lyn Iris ,B,EC4,10,18,31,45,25,23,34,31,10,56.75,Yes,,,Pass! Permit Recorded
+56115,Banate Jr.,Ruben Vincent,G,EC4,1,21,32,46,3,4,34,14,,38.75,No,57.5,15,Fail
+56210,Biñas,Khen,C,EC4,0,9,28,30,24,23,34,14,10,43,No,54,35,Fail
+52465,BUGNA,JONNA MAE,S,EC4,6,13,32,52,17,33,34,22,,52.25,Yes,,,Pass! Permit Recorded
+56337,Calopez,Joenald,G,EC4,8,5,28,38,3,9,34,14,10,37.25,No,65.5,35,Fail
+50318,COLMO,FRANZ RUIZ,A,EC4,4,,26,37,17,12,34,25,,38.75,No,57.5,0,Fail
+52804,Dominguez,Lydeth Kaye,C,EC4,6,10,26,32,23,23,34,10,,41,No,53,0,Fail
+49066,Duro,Judy Jr.,C,EC4,9,22,32,65,25,10,34,21,,54.5,Yes,,,Pass! Permit Recorded
+55174,Ellado,Ma. Kyla Cassandra ,D,EC4,5,32,31,26,10,2,34,20,10,42.5,No,55,35,Fail
+55913,Endoma,Tracy Liane,N,EC4,4,20,32,39,17,10,34,22,,44.5,No,46,40,Fail
+55434,Estañol,Noezel,G,EC4,5,12,26,34,24,23,34,34,,48,No,39,50,Pass!
+54585,Fullon,Romar John,G,EC4,7,31,31,60,21,14,34,34,10,60.5,Yes,,,Pass! Permit Recorded
+38429,Gagula,Emmanuel Jay,G,EC4,6,17,32,41,24,23,34,25,,50.5,Yes,,,Pass! Permit Recorded
+56606,Genit,Algene June ,M,EC4,1,23,32,38,25,23,34,28,,51,Yes,,,Pass! Permit Recorded
+54733,Genizera,John Lester,C,EC4,,31,32,69,23,23,34,48,,65,Yes,,,Pass! Permit Recorded
+46205,Gilo,Jan Armen,A,EC4,0,14,34,34,3,4,34,18,10,37.75,No,64.5,30,Fail
+56506,Granito,Hen Ellysa,T,EC4,2,20,32,33,3,9,34,21,10,41,No,58,25,Fail
+54520,Leones,Germaine Mae,C,EC4,11,24,26,56,17,33,34,26,,56.75,Yes,,,Pass! Permit Recorded
+56091,Llave,John paul,D,EC4,5,5,32,33,24,23,34,22,,44.5,No,46,35,Fail
+50292,Matalubos,Tommy,M,EC4,6,8,29,28,17,12,34,16,,37.5,No,60,13,Fail
+54630,Mendoza,Arabella ,A,EC4,2,27,26,32,25,10,34,17,,43.25,No,48.5,50,Pass!
+51534,Nitro,Philip John,S,EC4,3,10,26,29,10,2,34,10,,31,No,73,10,Fail
+55594,Pagmanua,Kerbie Kent,B,EC4,9,27,32,46,21,27,34,28,,56,Yes,,,Pass! Permit Recorded
+55895,Pangilinan,Fiona Ashley,L,EC4,6,29,31,47,23,29,34,25,10,58.5,Yes,,,Pass! Permit Recorded
+54398,Parcon,Thed Joshua,T,EC4,5,8,32,42,23,23,34,24,,47.75,No,39.5,25,Fail
+48158,Patrona,Charles Adrian,C,EC4,3,9,29,28,17,12,34,13,,36.25,No,62.5,10,Fail
+56584,Perez,Leonardo,C,EC4,29,23,31,59,24,23,34,38,10,67.75,Yes,,,Pass! Permit Recorded
+49174,Polido,Rio,P,EC4,5,2,26,24,25,10,34,14,,35,No,65,15,Fail
+51521,Quasco,Amy Rose,F,EC4,8,8,29,27,13,23,34,8,,37.5,No,60,28,Fail
+54522,Querubin,Alyzza Faith,A,EC4,8,21,26,72,25,23,34,26,,58.75,Yes,,,Pass! Permit Recorded
+46601,Solis,Rose Ann,S,EC4,5,11,32,44,10,2,34,20,10,42,No,56,35,Fail
+46904,Solis,Zybells,L,EC4,7,29,32,41,21,27,34,21,,53,Yes,,,Pass! Permit Recorded
+52456,Tabifranca ,Tommy Jones,G,EC4,4,4,32,45,3,9,34,14,,36.25,No,62.5,23,Fail
+51598,Tolentino,Cathlyn Joy ,A,EC4,6,6,29,47,17,33,34,18,,47.5,No,40,33,Fail
+56422,Torreña,Harold,B,EC4,7,13,32,51,21,14,,15,,38.25,No,58.5,10,Fail
+55173,VILLAR,CRYSTHAL JOY,D,EC4,7,19,34,36,23,29,34,18,,50,Yes,,,Pass! Permit Recorded
+50991,Villote ,Julynio ,S,EC4,0,14,31,34,3,4,34,25,10,38.75,No,62.5,20,Fail
+56800,YMALAY,JAMESON,C,EC4,16,19,26,45,25,23,34,14,,50.5,Yes,,,Pass! Permit Recorded
